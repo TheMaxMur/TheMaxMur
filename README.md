@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 ![TheMaxMur's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheMaxMur&show_icons=true&theme=algolia&hide_border=true&border_radius=20&include_all_commits=true&count_private=false)
 
 ![TheMaxMur's GitHub Profile views](https://komarev.com/ghpvc/?username=TheMaxMur&color=blue)
+
