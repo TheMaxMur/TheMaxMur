@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheMaxMur&show_icons=true&theme=algolia&hide_border=true&border_radius=20&include_all_commits=true&count_private=false" height="160" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TheMaxMur&show_icons=true&theme=algolia&hide_border=true&border_radius=20&include_all_commits=true&count_private=false" height="170" alt="stats graph" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheMaxMur&layout=compact&theme=algolia&exclude_repo=spil-site-frontend&hide=html,css" height="160" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheMaxMur&layout=compact&theme=algolia&exclude_repo=spil-site-frontend&hide=html,css" height="170" alt="languages graph" />
 </div>
 
 ![TheMaxMur's GitHub Profile views](https://komarev.com/ghpvc/?username=TheMaxMur&color=blue)
