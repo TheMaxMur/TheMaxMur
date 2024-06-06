@@ -15,9 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![TheMaxMur's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheMaxMur&show_icons=true&theme=algolia&hide_border=true&border_radius=20&include_all_commits=true&count_private=false)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TheMaxMur&show_icons=true&theme=algolia&hide_border=true&border_radius=20&include_all_commits=true&count_private=false" height="200" alt="stats graph" />
 
-![TheMaxMur's GitHub languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=TheMaxMur&layout=donut-vertical&theme=algolia&exclude_repo=spil-site-frontend&hide=html,css)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheMaxMur&layout=compact&theme=algolia&exclude_repo=spil-site-frontend&hide=html,css" height="200" alt="languages graph" />
+</div>
 
 ![TheMaxMur's GitHub Profile views](https://komarev.com/ghpvc/?username=TheMaxMur&color=blue)
 
